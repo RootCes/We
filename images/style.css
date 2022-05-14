@@ -1,6 +1,3 @@
-.h2{
-    color:blanchedalmond
-}
 @import url('https://fonts.googleapis.com/css?family=Poppins:200,300,400,500,600,700,800,900&display=swap');
 *
 {
@@ -183,7 +180,7 @@ header .logo
 {
   text-decoration: none;
   font-size: 24px;
-  color: #111;
+  color: rgb(13, 125, 52);
 }
 .menu ul li a:hover
 {
