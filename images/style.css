@@ -93,15 +93,17 @@ header .logo
 
 .text h2
 {
-  font-size: 5em;
+  font-size: 6em; 
   font-weight: 800;
   color: #fff;
   line-height: 1em;
   text-transform: uppercase;
+  margin-bottom: 100px;
+
 }
 .text h3
 {
-  font-size: 4em;
+  font-size: 3em;
   font-weight: 700;
   color: #fff;
   line-height: 1em;
@@ -204,3 +206,7 @@ header .logo
     font-size: 2em;
   }
 }
+* {
+    margin: 0;
+    padding: 0;
+  }
