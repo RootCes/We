@@ -167,6 +167,9 @@ header .logo
   display: flex;
   justify-content: center;
   align-items: center;
+  text-decoration: none;
+  font-size: 55px;
+  color: rgb(13, 125, 52);
 }
 .menu ul
 {
@@ -179,7 +182,7 @@ header .logo
 .menu ul li a
 {
   text-decoration: none;
-  font-size: 24px;
+  font-size: 55px;
   color: rgb(13, 125, 52);
 }
 .menu ul li a:hover
@@ -203,7 +206,3 @@ header .logo
     font-size: 2em;
   }
 }
-* {
-    margin: 0;
-    padding: 0;
-  }
